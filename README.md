@@ -6,6 +6,7 @@ This project demonstrates how to control a common cathode seven-segment display 
 The primary function of this project is to provide a clear understanding of GPIO manipulation using HAL (Hardware Abstraction Layer) in STM32CubeIDE.
 
 **Features**
+
 1.Display digits 0 to 9 on a seven-segment display
 
 2.Efficient use of GPIO pins for segment control
@@ -15,6 +16,7 @@ The primary function of this project is to provide a clear understanding of GPIO
 4.Simple error handling using Error_Handler()
 
 **Components Used**
+
 STM32 Microcontroller (e.g., STM32F103C8T6),Common Cathode Seven Segment Display,Connecting Wires,Power Supply,
 
 **CODE EXPLANATION**
