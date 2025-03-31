@@ -1,6 +1,7 @@
 **STM32 Seven Segment Display Control**
 
 **Overview**
+
 This project demonstrates how to control a common cathode seven-segment display using an STM32 microcontroller. The code initializes the GPIO pins, configures the clock, and displays digits from 0 to 9 using segment control logic. 
 The primary function of this project is to provide a clear understanding of GPIO manipulation using HAL (Hardware Abstraction Layer) in STM32CubeIDE.
 
